@@ -1,0 +1,19 @@
+{
+  "name": "recengine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "bourne": "^0.4.0",
+    "coffee-script": "^1.12.7",
+    "express": "^4.15.3",
+    "jade": "^1.11.0",
+    "underscore": "^1.8.3"
+  }
+}
